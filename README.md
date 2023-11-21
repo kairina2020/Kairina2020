@@ -66,7 +66,7 @@
 Создание Mindmap для тестов API
   - Сервис API  [Dummyapi](https://dummyapi.io/). На основе документации создавалась Mindmap, по которой создавалась коллекция тестов в Postman.
   - Карта [Mindmap](https://github.com/kairina2020/Kairina2020/blob/main/DummyAPI.xmind). Интеллект-карта в screenshots: [screenshot1](Karta_1.jpg), [screenshot2](Karta_2.jpg), [screenshot3](Karta_3.jpg)
-  - Коллекция в Postman [Коллекция_Dummyapi](Dummyapi.postman_collection)
+  - Коллекция в Postman [Коллекция_Dummyapi](Dummyapi.postman_collection) Пара запросов в screenshots: [GET запрос](Dummy_Get.jpg), [POST запрос](Dummy_POST.jpg)
 
 
 - Коллекция в Postman 
