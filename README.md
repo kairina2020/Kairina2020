@@ -59,10 +59,10 @@
   -  [Requirements](https://github.com/kairina2020/qa-engineer-project-85/blob/main/requirements.yml)
  
  3. Проект [RunIT - среда для написания и исполнения кода](https://runit.hexlet.ru/), тестовая документация велась в TMS Allure TestOps.
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](Test_cases_RunIT.pdf)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://github.com/kairina2020/qa-engineer-project-84/blob/main/bugreports.yml)
+  -  [Test-cases (формат .CSV)](report.csv)
+  -  [Test-cases (формат .PDF)](Test_cases_RunIT.pdf)
+  -  [Bugreports (формат .CSV)](Launch at 2023-10-18 21_23 _#2377 Создания сниппета с пустым именем_.csv)
+
 
 
 
