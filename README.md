@@ -51,12 +51,12 @@
 Тестовая документация:
 
 1. Проект по тестированию [Интернет-магазина](https://hexlet-products-store.vercel.app/), тестовая документация велась в GitHab.
-  -  [Тест-кейсы](https://github.com/kairina2020/qa-engineer-project-84/blob/main/test-cases.yml)
-  -  [Баг-репорты](https://github.com/kairina2020/qa-engineer-project-84/blob/main/bugreports.yml)
+  -  [Test-cases](https://github.com/kairina2020/qa-engineer-project-84/blob/main/test-cases.yml)
+  -  [Bugreports](https://github.com/kairina2020/qa-engineer-project-84/blob/main/bugreports.yml)
  
 2. Проект [Тестирование в продакшене](https://codebattle.hexlet.io/), тестовая документация велась в GitHab.
-  -  [Тест-кейсы](https://github.com/kairina2020/qa-engineer-project-85/blob/main/test-cases.yml)
-  -  [Требования](https://github.com/kairina2020/qa-engineer-project-85/blob/main/test-cases.yml)
+  -  [Test-cases](https://github.com/kairina2020/qa-engineer-project-85/blob/main/test-cases.yml)
+  -  [Requirements](https://github.com/kairina2020/qa-engineer-project-85/blob/main/requirements.yml)
  
  3. Проект [RunIT - среда для написания и исполнения кода](https://runit.hexlet.ru/), тестовая документация велась в TMS Allure TestOps.
   -  [Чек-листы](https://ссылочку_сюда)
