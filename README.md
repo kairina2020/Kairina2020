@@ -60,7 +60,7 @@
  
  3. Проект [RunIT - среда для написания и исполнения кода](https://runit.hexlet.ru/), тестовая документация велась в TMS Allure TestOps.
   -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://github.com/kairina2020/qa-engineer-project-84/blob/main/test-cases.yml)
+  -  [Тест-кейсы](Test_cases_RunIT.pdf)
   -  [Mind maps](https://ссылочку_сюда)
   -  [Баг-репорты](https://github.com/kairina2020/qa-engineer-project-84/blob/main/bugreports.yml)
 
