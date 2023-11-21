@@ -48,11 +48,35 @@
 [Мое резюме](https://cv.hexlet.io/ru/account/resumes)
 
 ## Портфолио 
-- Тестовая документация
+Тестовая документация:
+
+1. Проект по тестированию [Интернет-магазина](https://hexlet-products-store.vercel.app/), тестовая документация велась в GitHab.
+  -  [Тест-кейсы](https://github.com/kairina2020/qa-engineer-project-84/blob/main/test-cases.yml)
+  -  [Баг-репорты](https://github.com/kairina2020/qa-engineer-project-84/blob/main/bugreports.yml)
+ 
+2. Проект [Тестирование в продакшене](https://codebattle.hexlet.io/), тестовая документация велась в GitHab.
+  -  [Тест-кейсы](https://github.com/kairina2020/qa-engineer-project-85/blob/main/test-cases.yml)
+  -  [Требования](https://github.com/kairina2020/qa-engineer-project-85/blob/main/test-cases.yml)
+ 
+ 3. Проект [RunIT - среда для написания и исполнения кода](https://runit.hexlet.ru/), тестовая документация велась в TMS Allure TestOps.
   -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://github.com/kairina2020/qa-engineer-project-84/blob/main/test-cases.yml)
   -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
+  -  [Баг-репорты](https://github.com/kairina2020/qa-engineer-project-84/blob/main/bugreports.yml)
+
+
+
+
+- Тестовая документация
+  Проект по тестирование [RunIT - среда для написания и исполнения кода](https://hexlet-products-store.vercel.app/), тестовая документация велась в GitHab.
+  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://github.com/kairina2020/qa-engineer-project-84/blob/main/test-cases.yml)
+  -  [Mind maps](https://ссылочку_сюда)
+  -  [Баг-репорты](https://github.com/kairina2020/qa-engineer-project-84/blob/main/bugreports.yml)
+
+
+
+
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
 - SQL запросы 
