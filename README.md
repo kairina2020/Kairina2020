@@ -66,20 +66,21 @@
   -  [Bugreports](https://github.com/kairina2020/Kairina2020/blob/main/Bagreport.png) и [Test-case](https://github.com/kairina2020/Kairina2020/blob/main/Test_case.png)
   -  Фиксация для разработчиков и отслеживание жизненного цикла ошибок и задач ведется в [GitHab](https://github.com/issues?q=is%3Aissue+is%3Aopen+author%3Akairina2020)
 
+Коллекция в Postman Сервис [GOREST](https://gorest.co.in/)
+- Коллекция [COMMENTS](https://github.com/kairina2020/Kairina2020/blob/main/Gorest_COMMENTS.postman_collection.json)
+- Запрос [GET](https://github.com/kairina2020/Kairina2020/blob/main/GET_Gorest.jpg)
+- Запрос [POST](https://github.com/kairina2020/Kairina2020/blob/main/POST_gorest.jpg) 
+
 Создание Mindmap для тестов API
   - Сервис API  [Dummyapi](https://dummyapi.io/). На основе документации создавалась Mindmap, по которой создавалась коллекция тестов в Postman.
   - Карта [Mindmap](https://github.com/kairina2020/Kairina2020/blob/main/DummyAPI.xmind). Интеллект-карта в screenshots: [общий вид](Karta_1.jpg), [GET List](Karta_2.jpg), [Create User](Karta_3.jpg)
   - Postman [Коллекция_Dummyapi](Dummyapi.postman_collection) Пара запросов в screenshots: [GET запрос](Dummy_Get.jpg), [POST запрос](Dummy_POST.jpg)
 
 
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-
 
 
 - Тестовая документация
   -  [Чек-листы](https://ссылочку_сюда)
-
 
 - SQL запросы 
   -  [Название проектв](https://ссылочку_сюда)
