@@ -60,13 +60,16 @@
  3. Проект [RunIT - среда для написания и исполнения кода](https://runit.hexlet.ru/), тестовая документация велась в TMS Allure TestOps.
   -  [Test-cases (формат .CSV)](report.csv)
   -  [Test-cases (формат .PDF)](Test_cases_RunIT.pdf)
-  -  [Bugreports (формат .CSV)](Launch at 2023-10-18 21_23 _#2377 Создания сниппета с пустым именем_.csv)
 
+ 4. Проект [Hexlet-correction - cервис для отправки сообщений об ошибках в тексте на Вашем сайте](https://hexlet-correction.herokuapp.com). Сервис находится в стади разработки. Тестовая документация ведется в TMS Allure TestOps.
+  -  [Test-cases (формат .CSV)](report_HC.csv)
+  -  [Bugreports]() и [Test-cases]()
+  -  Фиксация для разработчиков и отслеживание жизненного цикла ошибок и задач ведется в [GitHab](https://github.com/issues?q=is%3Aissue+is%3Aopen+author%3Akairina2020)
 
 Создание Mindmap для тестов API
   - Сервис API  [Dummyapi](https://dummyapi.io/). На основе документации создавалась Mindmap, по которой создавалась коллекция тестов в Postman.
-  - Карта [Mindmap](https://github.com/kairina2020/Kairina2020/blob/main/DummyAPI.xmind). Интеллект-карта в screenshots: [screenshot1](Karta_1.jpg), [screenshot2](Karta_2.jpg), [screenshot3](Karta_3.jpg)
-  - Коллекция в Postman [Коллекция_Dummyapi](Dummyapi.postman_collection) Пара запросов в screenshots: [GET запрос](Dummy_Get.jpg), [POST запрос](Dummy_POST.jpg)
+  - Карта [Mindmap](https://github.com/kairina2020/Kairina2020/blob/main/DummyAPI.xmind). Интеллект-карта в screenshots: [общий вид](Karta_1.jpg), [GET List](Karta_2.jpg), [Create User](Karta_3.jpg)
+  - Postman [Коллекция_Dummyapi](Dummyapi.postman_collection) Пара запросов в screenshots: [GET запрос](Dummy_Get.jpg), [POST запрос](Dummy_POST.jpg)
 
 
 - Коллекция в Postman 
@@ -77,9 +80,6 @@
 - Тестовая документация
   Проект по тестирование [RunIT - среда для написания и исполнения кода](https://hexlet-products-store.vercel.app/), тестовая документация велась в GitHab.
   -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://github.com/kairina2020/qa-engineer-project-84/blob/main/test-cases.yml)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://github.com/kairina2020/qa-engineer-project-84/blob/main/bugreports.yml)
 
 
 
