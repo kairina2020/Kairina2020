@@ -63,7 +63,7 @@
 
  4. Проект [Hexlet-correction - cервис для отправки сообщений об ошибках в тексте на Вашем сайте](https://hexlet-correction.herokuapp.com). Сервис находится в стади разработки. Тестовая документация ведется в TMS Allure TestOps.
   -  [Test-cases (формат .CSV)](report_HC.csv)
-  -  [Bugreports]() и [Test-cases]()
+  -  [Bugreports](https://github.com/kairina2020/Kairina2020/blob/main/Bagreport.png) и [Test-case](https://github.com/kairina2020/Kairina2020/blob/main/Test_case.png)
   -  Фиксация для разработчиков и отслеживание жизненного цикла ошибок и задач ведется в [GitHab](https://github.com/issues?q=is%3Aissue+is%3Aopen+author%3Akairina2020)
 
 Создание Mindmap для тестов API
@@ -78,11 +78,7 @@
 
 
 - Тестовая документация
-  Проект по тестирование [RunIT - среда для написания и исполнения кода](https://hexlet-products-store.vercel.app/), тестовая документация велась в GitHab.
   -  [Чек-листы](https://ссылочку_сюда)
-
-
-
 
 
 - SQL запросы 
