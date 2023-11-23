@@ -77,10 +77,3 @@
   - Postman [Коллекция_Dummyapi](Dummyapi.postman_collection) Пара запросов в screenshots: [GET запрос](Dummy_Get.jpg), [POST запрос](Dummy_POST.jpg)
 
 
-
-
-- Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-
-- SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
